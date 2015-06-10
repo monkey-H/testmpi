@@ -1,1 +1,3 @@
-hello
+from: mpi_hello.c
+to: mpi_hello
+hosts: 2
